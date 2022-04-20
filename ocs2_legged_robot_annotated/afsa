@@ -1,0 +1,173 @@
+[33mcommit 2c9ee38f3375eb32d4f7abc2afd6e58d7d36f061[m[33m ([m[1;36mHEAD -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: matheecs <matheecs@qq.com>
+Date:   Sat Sep 18 16:51:07 2021 +0800
+
+    update
+
+[33mcommit dc29d276fafedf04f923d37ece520aa033c97226[m
+Author: matheecs <matheecs@qq.com>
+Date:   Thu Sep 9 10:19:12 2021 +0800
+
+    add foot_placement_constraints.gif
+
+[33mcommit 06f98a373eb6adcdb14c26dc648ef9c216608ad4[m
+Author: matheecs <matheecs@qq.com>
+Date:   Wed Sep 8 16:20:03 2021 +0800
+
+    add function to draw polygon
+
+[33mcommit bd48c7bf477b43037f50a0fbfde8cfb924bfec96[m
+Author: matheecs <matheecs@qq.com>
+Date:   Wed Sep 8 12:45:23 2021 +0800
+
+    Use Soft Constraint
+
+[33mcommit 72bd5de5efc2f84aa7795028f2fadf1763c725d8[m
+Author: matheecs <matheecs@qq.com>
+Date:   Tue Sep 7 15:35:30 2021 +0800
+
+    update
+
+[33mcommit c7f56cc191a07f2bc44629de81132e541f7d45c7[m
+Author: matheecs <matheecs@qq.com>
+Date:   Mon Sep 6 17:54:05 2021 +0800
+
+    update
+
+[33mcommit 2d4e8f881baf112ce51eb39c3da06e823ff82226[m
+Author: matheecs <matheecs@qq.com>
+Date:   Mon Sep 6 17:38:14 2021 +0800
+
+    TODO debug
+
+[33mcommit d5212d6dfbe8b1136e3b0c0f2d25dfb1f2374368[m
+Author: matheecs <matheecs@qq.com>
+Date:   Mon Sep 6 17:06:45 2021 +0800
+
+    fix some bugs
+
+[33mcommit 1e6df466d5c3a5b26ae2eeb62e219f7a225d400b[m
+Author: matheecs <matheecs@qq.com>
+Date:   Fri Sep 3 17:20:11 2021 +0800
+
+    TODO getQuadraticApproximation
+
+[33mcommit 33ac30537953bb95abac5eae50289a0f750d95e8[m
+Author: matheecs <matheecs@qq.com>
+Date:   Fri Sep 3 10:56:25 2021 +0800
+
+    update
+
+[33mcommit 8e27ef9dc9a829de46beb58179262e3e89ba6658[m
+Author: matheecs <matheecs@qq.com>
+Date:   Thu Sep 2 20:17:57 2021 +0800
+
+    update
+
+[33mcommit c6d269b0150f46609d98f8ddf76b58e02e4a38ee[m
+Author: matheecs <matheecs@qq.com>
+Date:   Thu Sep 2 18:29:49 2021 +0800
+
+    fix some bugs
+
+[33mcommit d36a6533c08b0217f12919b60666d235566f6726[m
+Author: matheecs <matheecs@qq.com>
+Date:   Thu Sep 2 11:30:04 2021 +0800
+
+    add getFootPlacementConstraint
+
+[33mcommit afb7d62babf026a00b1d92357d3cd1e4bd92f2dc[m
+Author: matheecs <matheecs@qq.com>
+Date:   Wed Sep 1 17:49:28 2021 +0800
+
+    add FootPlacementConstraint
+
+[33mcommit 77fb647053c843d9794f90e4a255bbbced10164b[m
+Author: matheecs <matheecs@qq.com>
+Date:   Thu Aug 26 18:05:42 2021 +0800
+
+    delete test
+
+[33mcommit 7b12df3f77c9ac25d189980e720f6752bbc40e43[m
+Author: matheecs <matheecs@qq.com>
+Date:   Thu Aug 26 17:58:18 2021 +0800
+
+    update
+
+[33mcommit 60c36f7a24f9335b029558cb823abf0de02f8419[m
+Author: matheecs <matheecs@qq.com>
+Date:   Thu Aug 26 16:06:00 2021 +0800
+
+    delete /***********
+
+[33mcommit 5a45c387c3e85e1b51ac75333644ad0333632242[m
+Author: matheecs <matheecs@qq.com>
+Date:   Thu Aug 26 16:00:52 2021 +0800
+
+    clang-format
+
+[33mcommit 98f3b94e2963c819bf62b0c1c1fff2d4d00a7a3b[m
+Author: matheecs <matheecs@qq.com>
+Date:   Thu Aug 26 11:29:25 2021 +0800
+
+    update
+
+[33mcommit 60e5d1ae8287e3bfb6c9bf0295f4200de9750830[m
+Author: matheecs <matheecs@qq.com>
+Date:   Wed Aug 25 11:35:18 2021 +0800
+
+    add State-only Foot Placement Constraints
+
+[33mcommit 9cecaa854d8487f10acfe8432bea28ac68452818[m
+Author: matheecs <matheecs@qq.com>
+Date:   Tue Aug 24 13:40:52 2021 +0800
+
+    update
+
+[33mcommit ea1ccca0deb65cc1c3b96a49af5a045ef5e26104[m
+Author: matheecs <matheecs@qq.com>
+Date:   Tue Aug 24 11:03:03 2021 +0800
+
+    update
+
+[33mcommit e18e1ef4a9922ff8f8aa4df3b4d65a69a97fc945[m
+Author: matheecs <matheecs@qq.com>
+Date:   Tue Aug 24 10:56:17 2021 +0800
+
+    update
+
+[33mcommit cdc41fd3778cf9f427706465d661bb6e981d32b0[m
+Author: matheecs <matheecs@qq.com>
+Date:   Tue Aug 24 09:43:25 2021 +0800
+
+    update
+
+[33mcommit 05c5f270f395ee1b780f8613dacd568887bb5c4e[m
+Author: matheecs <matheecs@qq.com>
+Date:   Mon Aug 23 17:50:24 2021 +0800
+
+    update
+
+[33mcommit 1459c514de7a2d63c420b03372992a5d4de36958[m
+Author: matheecs <matheecs@qq.com>
+Date:   Mon Aug 23 17:47:48 2021 +0800
+
+    add toc
+
+[33mcommit 67084a06d3309b3c069ea7a87ccb536f3669123d[m
+Author: matheecs <matheecs@qq.com>
+Date:   Mon Aug 23 16:59:30 2021 +0800
+
+    update README
+
+[33mcommit 2520734d614b64d410b44e703904b6e21aecd0bf[m
+Author: matheecs <matheecs@qq.com>
+Date:   Fri Aug 20 14:54:16 2021 +0800
+
+    add README
+
+[33mcommit ab4a804298dccbb6f646e55e39128a4673574ceb[m
+Author: matheecs <matheecs@qq.com>
+Date:   Fri Aug 20 14:33:28 2021 +0800
+
+    init
