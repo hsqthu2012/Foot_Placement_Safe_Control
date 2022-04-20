@@ -6,6 +6,8 @@ The realization of foot placement safe control has referenced the work by [mathe
 
 ## Build
 
+Build OCS2 following the [installation guide](https://leggedrobotics.github.io/ocs2/installation.html). Then build ocs2_legged_robot_annotated:
+
 ```Bash
 catkin build ocs2_legged_robot_annotated
 source devel/setup.bash
